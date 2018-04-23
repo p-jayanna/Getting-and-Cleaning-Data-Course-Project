@@ -8,7 +8,7 @@ The R script, `run_analysis.R`, does the following:
 4. Read the activity file and use the second column names as label to the activity column values in mereged data file
 5. Select the columns which contains text activity, subject, mean, and std from merged files.
 6. Use dplyr to average the measurments by subject and activity.
-7. Write the preprocessed tidy data into tidy_smartphone.txt file.
+7. Write the preprocessed tidy data into tidy_smartphone_data.txt file.
 
 
 
