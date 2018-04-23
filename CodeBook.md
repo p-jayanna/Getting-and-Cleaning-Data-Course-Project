@@ -7,12 +7,12 @@ The preprocessed and cleaned tidy data set located in this repository with the n
 
 The total variables availble in the tidy_smartphone_data.txt file are 81. In these variables 2 columns repressent activity and
 subject. The subject is a integer of 1 to 30 numbers. The activity is factor with 6 values which repressent: 
-	* `WALKING`: activity was walking
-	* `WALKING_UPSTAIRS`: activity was walking upstairs
-	* `WALKING_DOWNSTAIRS`: activity was walking downstairs
-	* `SITTING`: activity was sitting
-	* `STANDING`: activity was standing
-	* `LAYING`: activity was laying
+	 `WALKING`: activity was walking,
+	`WALKING_UPSTAIRS`: activity was walking upstairs,
+	 `WALKING_DOWNSTAIRS`: activity was walking downstairs, 
+	`SITTING`: activity was sitting, 
+ `STANDING`: activity was standing, and
+	`LAYING`: activity was laying
 
 The rest 79 columns are averaged measurments by subject and activity. The names of these 79 columns are listed below:
 * `tBodyAccMeanX`
