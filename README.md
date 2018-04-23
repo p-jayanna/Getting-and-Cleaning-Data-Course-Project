@@ -10,7 +10,7 @@ The R script, `run_analysis.R`, does the following:
 6. Use dplyr to average the measurments by subject and activity.
 7. Write the preprocessed tidy data into tidy_smartphone_data.txt file.
 
-##Dependencies
+## Dependencies
 
 The run_analysis.R file requires 2 packages data.table and dplyr. The data.table is used to speed up the reading process from the files. Using read.table instead of fread can avoid the dependency on data.table.
 
